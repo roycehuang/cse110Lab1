@@ -1,6 +1,6 @@
 # User Page
 
-## NAME: **Royce Huang**
+NAME: **Royce Huang**
 - Third Year
 - Computer Engineering
 - Seventh College
