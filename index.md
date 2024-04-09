@@ -4,7 +4,6 @@
 - UCSD
 - Junior
 - Computer Engineering
-- 
 ### Goals
 1. Learn how to be a good teammate
 2. Create an enjoyable environment within the team
