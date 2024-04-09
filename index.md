@@ -1,9 +1,9 @@
 # User Page
 
 ## NAME: **Royce Huang**
-- UCSD
-- Junior
+- Third Year
 - Computer Engineering
+- Seventh College
 ### Goals
 1. Learn how to be a good teammate
 2. Create an enjoyable environment within the team
