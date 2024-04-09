@@ -11,9 +11,9 @@
 
 ### Tasks
 - [x] finish this Markdown page
-- [ ] publish through GitHub pages
-- [ ] include the URL to the published site on the [README.md](README.md) file
-- [ ] submit the GitHub repository link onto Gradescope
+- [x] publish through GitHub pages
+- [x] include the URL to the published site on the [README.md](README.md) file
+- [x] submit the GitHub repository link onto Gradescope
 > You've already won
 ```
 git status 
